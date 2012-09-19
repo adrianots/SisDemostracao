@@ -15,6 +15,7 @@
     
     <body onload="listarCliente();">
     	<h2>Cadastro de Clientes</h2>
+    	
         <form id="form" method="post">	                
 	        <input type="hidden" class="input" name="codigo" value=""/>
 	        <div class="field">  
